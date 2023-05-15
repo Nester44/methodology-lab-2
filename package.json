@@ -1,0 +1,26 @@
+{
+  "name": "methodology-lab-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    }
+  },
+  "eslintConfig": {
+    "jest": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}

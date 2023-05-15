@@ -12,7 +12,7 @@ export class LinkedList {
   }
 
   insert(element, index) {
-    if (index < 0 || index > this.data.length) throw 'Out of bounds'
+    // if (index < 0 || index > this.data.length) throw 'Out of bounds'
     this.data.splice(index, 0, element)
   }
 

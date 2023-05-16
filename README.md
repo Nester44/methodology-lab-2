@@ -16,7 +16,10 @@ The project requires Python and Unittest to be installed on your machine.
 
 Clone repository
 ```bash
-git clone https://github.com/Nester44/methodology-lab-2
+git clone https://github.com/Nester44/methodology-lab-2.git
+```
+
+```bash
 cd methodology-lab-2
 ```
 
